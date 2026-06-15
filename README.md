@@ -18,3 +18,4 @@ Hobi Amaçlıdır: Bu cihaz tıbbi bir ürün değildir, tamamen hobi ve deney a
 Kullanım Kısıtı: Kalp pili gibi elektronik tıbbi cihaz kullanan kişilerin bu cihazı kullanması kesinlikle yasaktır.
 
 Kontrollü Kullanım: Cihazı her zaman kendi sorumluluğunuzda, dikkatli bir şekilde kullanın.
+Faydalanılan Yazılım Altyapısı:[tolgaozuygur / [GRBL-28byj-48](https://github.com/tolgaozuygur/diy_electric_salt_spoon)]
